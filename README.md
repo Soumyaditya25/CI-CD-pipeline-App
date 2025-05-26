@@ -1,6 +1,3 @@
-Thought for a couple of seconds
-
-
 ## About
 
 This project demonstrates a CI/CD pipeline for a simple web application. The app exposes a login API that returns user details in JSON format. Whenever a request is received, it responds with a name and corresponding data.
